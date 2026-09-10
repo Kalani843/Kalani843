@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Kalani Roberts 👋
 
-<!--
-**Kalani843/Kalani843** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## "Aspiring Football Player and Business Manager"
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 About Me
+
+* 🏫 **Education:** Currently pursuing a Degree and a major in Business Administration at Baldwin Wallace University. Expected Graduation: 2029
+* 🔭 **Current Focus:** Business Managment, Football, AI
+* 🌱 **Currently Building:** [Name or brief description of a current project/lab assignment]
+* 💡 **Interests:**  Artificial Intelligence, Video Games, Football
+* ⚡ **Fun Fact:**  I  hiked a Mountain; I've played Football in SOFI Stadium
+* ### 📌 Featured Projects
+
+| Project Name | Description | Tech Used |
+| --- | --- | --- |
+| **Time Clock WebApp** | WebApp built on PythonAnywhere using [OpenAI / Claude / Gemini] | `[Python]` `[Flask]` |
+
+
+---
+
+
+#### 📫 Connect With Me
+**Linkedin** https://www.linkedin.com/feed/
+
+* **Email:**  Personal :kalanir83@gmail.com
+              Academic:kroberts25@bw.edu
+
+
