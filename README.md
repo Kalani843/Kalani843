@@ -1,7 +1,7 @@
 # Hi there, I'm Kalani Roberts 👋
 
 ## "Aspiring Football Player and Business Manager"
-
+* Download my Resume [here](https://rawcdn.githack.com/Kalani843/Kalani843/74994c41ff32f50a545e1ff8527960a9a51d6dfb/Resume.pdf)
 
 ### 🎓 About Me
 
